@@ -153,7 +153,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://lisir.me/ -o lisir.me.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.catrol.cn/ -o blog.catrol.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://emoryhuang.cn/ -o emoryhuang.cn.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://qwq3.top/ -o qwq3.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://anzhiy.cn/ -o anzhiy.cn.jpg
 
 
         curl https://purge.jsdelivr.net/gh/anzguyu-c/ScreenShot@gh-pages/*.*
